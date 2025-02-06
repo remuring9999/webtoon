@@ -1,0 +1,17 @@
+{
+  "name": "webtoon",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "ts-node src/index.ts",
+    "test": "ts-node src/test.ts"
+  },
+  "keywords": [],
+  "author": "remuring9999",
+  "license": "MIT",
+  "description": "네이버 웹툰 비공식 API",
+  "dependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.3"
+  }
+}
